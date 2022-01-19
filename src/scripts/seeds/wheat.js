@@ -1,6 +1,6 @@
-export const createWheat () => {
-    const wheat {
-        type: wheat,
+export const createWheat = () => {
+    const wheat = {
+        type: "Wheat",
         height: 230,
         output: 6
     }
